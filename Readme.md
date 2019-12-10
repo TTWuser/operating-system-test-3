@@ -1,2 +1,2 @@
 init project
-gcc 4.4
+欢迎你，志同道合的小兄弟
